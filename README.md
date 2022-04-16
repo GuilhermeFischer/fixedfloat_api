@@ -47,7 +47,7 @@ Information about a currency pair with a set amount of funds. [Official docs](ht
 response = fixedfloat_api.getPrice("USDCBSC", "BTC", 25.00, type="fixed")
 
 // Float
-response = fixedfloat_api.getPrice("USDCBSC", "BTC", 25.00, type="float")
+response = fixedfloat_api.getPrice("USDCBSC", "BTC", 25.00)
 ```
 
 ### .getOrder(id, token)
