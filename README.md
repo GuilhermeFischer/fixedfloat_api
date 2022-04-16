@@ -62,7 +62,7 @@ response = fixedfloat_api.getOrder("ID", "TOKEN")
 
 ### .setEmergency(id, token, choice, address)
 
-Emergency Action Choice. [Official docs](https://fixedfloat.com/api#method_setEmergency)
+Emergency action choice. [Official docs](https://fixedfloat.com/api#method_setEmergency)
 
 ```python
 // Exchange
