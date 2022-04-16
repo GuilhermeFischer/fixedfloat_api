@@ -13,7 +13,10 @@ Manual
 git clone https://github.com/GFXFischer/fixedfloat_api.git
 pip install -r requirements.txt
 ```
-
+Pip
+```bash
+pip install fixedfloat-api
+```
 
 ## Usage
 ```python
