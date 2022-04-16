@@ -10,7 +10,7 @@
 ## Installation
 Manual
 ```bash
-git clone https://github.com/GFXFischer/fixedfloat_api.git
+git clone https://github.com/GuilhermeFischer/fixedfloat_api.git
 pip install -r requirements.txt
 ```
 Pip
@@ -85,4 +85,4 @@ response = fixedfloat_api.createOrder("USDCBSC", "BTC", "ADDRESS", 25.00)
 ```
 
 ## License
-fixedfloat_api is Licensed under the [MIT License](https://github.com/GFXFischer/fixedfloat_api/blob/main/LICENSE)
+fixedfloat_api is Licensed under the [MIT License](https://github.com/GuilhermeFischer/fixedfloat_api/blob/main/LICENSE)
